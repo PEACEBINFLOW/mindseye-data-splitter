@@ -1,0 +1,12 @@
+{
+  "type": "code_analyzed",
+  "source": "chrome",
+  "timestamp": "2025-11-18T10:25:00Z",
+  "code_length": 120,
+  "signature": {
+    "id": "pat_9e02b2a8f93c",
+    "entropy": 0.42,
+    "hash": "9e02b2a8f93ce112fa001cd8ad123",
+    "preview": "function add(a, b) {"
+  }
+}
