@@ -1,0 +1,27 @@
+[
+  {
+    "target": "binary-engine",
+    "format": "binary",
+    "payload": "<Buffer ...>"
+  },
+  {
+    "target": "moving-library",
+    "format": "json",
+    "payload": {
+      "type": "code_analyzed",
+      "code_length": 120,
+      "signature": {
+        "id": "pat_9e02b2a8f93c"
+      }
+    }
+  },
+  {
+    "target": "ledger",
+    "format": "json",
+    "payload": {
+      "type": "code_analyzed",
+      "timestamp": "2025-11-18T10:25:00Z",
+      "source": "chrome"
+    }
+  }
+]
